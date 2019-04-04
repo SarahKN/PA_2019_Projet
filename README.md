@@ -44,7 +44,8 @@ Une fois l'architecture pour plugins mise en place, il devrait être très facil
 * Armes
 	* Mine, missile à trajectoire variable...
 * GUI
-    * Ajout d’une barre de menu
+    * Ajout d’une barre de menu pour faire pause, redémarrer la partie...
+    * Ajout d'informations tel que durée de partie, longueur des déplacements...
 * Autre
     * Avoir un comportement pour les joueurs morts (par exemple ralentir les autres joueurs en cas de contact)
     * Avoir un joueur humain (pilotage au clavier)
@@ -58,5 +59,19 @@ Une fois l'architecture pour plugins mise en place, il devrait être très facil
  L'application finale devra permettre de choisir, au lancement, le nombre de joueurs, ainsi que les plugins associés à chacun d'eux, grâce à une fenêtre. 
  
  ![mokup de fenêtre](./doc/mockup.png "Mockup réalisé avec http://framebox.org")
+ 
+ Elle devra aussi afficher le gagnant lors de la fin de partie. 
+ 
+ 
+ ### Évaluation et rendu  
+ Le travail se fait en groupe de 3 étudiants en moyenne, choisis aléatoirement. Tout le projet devra être fait dans un dépot GitHub *privé* de nom _PA-2019-nom1-nom2-nom3_. Pensez à m'inviter (fabricehuet) que j'ai accès au dépot. 
+ La date de rendu est le *3 mai 2019 à 18.00*. Tout commit fait après ne sera pas considéré. 
+ La note finale tiendra compte des critères suivants
+  * Qualité de l'architecture
+  * Plugins (nombre, originalité, intégration dans le jeu...)
+  * Travail en équipe (répartition des taches, travail régulier...)
+  * Qualité globale du jeu
+  * Démonstration (10 min par groupe)
+ 
  
  
