@@ -57,6 +57,6 @@ Une fois l'architecture pour plugins mise en place, il devrait être très facil
  ### Fonctionnalités de l'application
  L'application finale devra permettre de choisir, au lancement, le nombre de joueurs, ainsi que les plugins associés à chacun d'eux, grâce à une fenêtre. 
  
- [!mokup de fenêtre](./doc/mockup.png "Mockup réalisé avec http://framebox.org")
+ ![mokup de fenêtre](./doc/mockup.png "Mockup réalisé avec http://framebox.org")
  
  
